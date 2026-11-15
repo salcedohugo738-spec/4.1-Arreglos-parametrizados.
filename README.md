@@ -1,1 +1,2 @@
-# 4.1-Arreglos-parametrizados.
+Hugo Emmanuel Salcedo Alvarez 
+Juan Adrian Morales Escobar
